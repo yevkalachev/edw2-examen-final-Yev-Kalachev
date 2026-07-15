@@ -1,5 +1,5 @@
 <?php
-$nomEtudiant = "À remplacer par votre nom";
+$nomEtudiant = "Kalachev Yevgeniy";
 
 $titre = "Examen final EDW2";
 $sousTitre = "Déploiement d’un projet PHP existant sur N0C";
